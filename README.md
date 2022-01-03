@@ -54,3 +54,4 @@ Here are the code:
     //echo json_encode(weather()); //debug
 ?>
 ```
+> P.S. This API is free, but you'll still need to [sign up for it](https://home.openweathermap.org/users/sign_up) on Openweather site)
