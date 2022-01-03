@@ -55,3 +55,5 @@ Here are the code:
 ?>
 ```
 > P.S. This API is free, but you'll still need to [sign up for it](https://home.openweathermap.org/users/sign_up) on Openweather site)
+
+> Basic limit for this is 100 requests per hour, so you'll need to make your own API layer to store weather reports if you need more than that for free)
